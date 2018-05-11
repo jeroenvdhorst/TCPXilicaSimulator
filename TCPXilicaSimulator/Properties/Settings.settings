@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TCPXilicaSimulator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UsersFileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Users.txt</Value>
+    </Setting>
+    <Setting Name="BikeTestsFileLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BikeTest.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
